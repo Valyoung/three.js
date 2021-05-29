@@ -1,0 +1,25 @@
+{
+  "name": "three.js",
+  "version": "1.0.0",
+  "description": "testing three.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valyoung/three.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valyoung/three.js/issues"
+  },
+  "homepage": "https://github.com/Valyoung/three.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "three": "^0.129.0"
+  }
+}
